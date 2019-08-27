@@ -2,7 +2,6 @@
 
 ![docker hub](https://img.shields.io/docker/pulls/lework/drone-semantic-release.svg?style=flat-square)
 ![docker hub](https://img.shields.io/docker/stars/lework/drone-semantic-release.svg?style=flat-square)
-[![Build Status](https://travis-ci.com/lework/Docker-drone-semantic-release.svg?branch=master)](https://travis-ci.com/lework/Docker-drone-semantic-release)
 [![](https://images.microbadger.com/badges/image/lework/drone-semantic-release.svg)](http://microbadger.com/images/lework/drone-semantic-release "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/lework/drone-semantic-release.svg)](http://microbadger.com/images/lework/drone-semantic-release "Get your own version badge on microbadger.com")
 
